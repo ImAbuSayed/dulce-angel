@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce ángel
+
+This log tracks the cryptographic history and versioning for the song **Dulce ángel** (dulce-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T14:36:41.464588 | `v1` | `3f3f0873fd9902e9f894f3ccb3530aac24aaf8e09bb20054da4dfbe7f7af560e` | `532c679164c1bb64b52d7dd010a4ddde37ffd8e76ab0322ad39c10a4d710c875` | `2026-06-24_dulce-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
