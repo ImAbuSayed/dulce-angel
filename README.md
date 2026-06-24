@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Eres mi dulce ángel, mi luna sincera,
+> Bailando en la oscuridad como una fiera,
+> Me tienes adicto, atrapado en tu cadera,
+> Rompiendo la pista a tu propia manera.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
